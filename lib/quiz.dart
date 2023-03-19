@@ -4,7 +4,6 @@ import './answer.dart';
 import './question.dart';
 
 class Quiz extends StatelessWidget {
-  // const Quiz({super.key});
 
   final List<Map<String, Object>> questions;
   final int questionIndex;
